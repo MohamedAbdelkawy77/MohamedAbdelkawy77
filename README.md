@@ -1,68 +1,55 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Welcome, I am Mohamed Abdelkawy</h1>
 
-###
+---
 
-<p align="left">My name is MohamedAbdelkawy and I'm a Flutter Developer</p>
+### 🚀 Flutter Developer | Blockchain Enthusiast (Ethereum & ICP)
 
-###
+I am a senior Computer Science student and a passionate Flutter developer who loves building beautiful, scalable, and efficient mobile apps.  
+Alongside mobile development, I study Blockchain technologies such as **Ethereum**, **ICP**, and smart contract development using **Solidity**.  
+I enjoy writing clean, maintainable code and constantly learning modern tools and technologies.
 
-<h2 align="left">About me</h2>
+---
 
-###
+## 📄 My Resume:
+For more information, you can check my resume from this link:  
+**[Mohamed Abdelkawy | Resume](#)**
 
-<p align="left">📚 I'm currently learning in Computer Science</p>
+---
 
-###
+## 💻 Programming Languages:
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,solidity,cpp,java,kotlin,python,html,css" />
+</p>
 
-<h2 align="left">I code with</h2>
+---
 
-###
+## 🛠️ Tools & Technologies:
 
-<div align="left">
-</div>
+### **Mobile & Blockchain Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,solidity" />
+</p>
 
-###
+### **Development Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,remix,postman,git,github" />
+</p>
 
-<div align="left">
-<!-- Dart -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
-<img width="12" />
+---
 
-<!-- Flutter -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
-<img width="12" />
+## 🎓 Education
+- **Computer Science Student – Graduation Year**
 
-<!-- Firebase -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
-<img width="12" />
+---
 
-<!-- Solidity -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo" />
-<img width="12" />
+## 🌱 Currently Learning
+- Advanced Flutter Architectures (Clean Architecture, Bloc)
+- Smart Contracts (Solidity)
+- Ethereum & ICP Blockchain Development
 
-<!-- C++ -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-<img width="12" />
+---
 
-<!-- Java -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-<img width="12" />
+## 📫 Contact Me
+Feel free to reach out anytime!
 
-<!-- Kotlin -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
-<img width="12" />
-
-<!-- Python -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-<img width="12" />
-
-<!-- HTML -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-<img width="12" />
-
-<!-- CSS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-
-</div>
-
-###
+---
