@@ -10,11 +10,15 @@ I enjoy writing clean, maintainable code and constantly learning modern tools an
 
 ---
 
-## 📄 My Resume:
-For more information, you can check my resume from this link:  
-**[Mohamed Abdelkawy | Resume](#)**
+## 📄 My Resume
+For more information about me, check my resume:  
+
+**[📄 View My Resume](https://drive.google.com/file/d/1i1OGH8e1MtM5lrIYHMi7HWzhJYq4OzL3/view)**
 
 ---
+## 🌐 Portfolio
+Check my full portfolio and projects here:  
+**[Vivid Flutter Showcase](https://vivid-flutter-showcase.lovable.app)**
 
 ## 💻 Programming Languages:
 <p>
