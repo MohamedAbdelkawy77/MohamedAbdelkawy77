@@ -13,7 +13,7 @@ I enjoy writing clean, maintainable code and constantly learning modern tools an
 ## 📄 My Resume
 For more information about me, check my resume:  
 
-**[📄 View My Resume](https://drive.google.com/file/d/1i1OGH8e1MtM5lrIYHMi7HWzhJYq4OzL3/view)**
+**[📄 View My Resume](https://drive.google.com/file/d/1wOF47uzBL3DmSor9iekrOPeOQ754iRqL/view)**
 
 ---
 ## 🌐 Portfolio
